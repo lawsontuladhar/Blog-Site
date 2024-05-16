@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "6806",
+      "title": "Hello World",
+      "body": "Welcome to the New World of WEB.",
+      "author": "Mario"
+    },
+    {
+      "id": "cac1",
+      "title": "Welcome!",
+      "body": "Hello! Welcome to my Project. Thanks for being interested in my project.",
+      "author": "Lawson"
+    }
+  ]
+}
